@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ary Djmal"]
   s.email       = ["arydjmal@gmail.com"]
-  s.homepage    = "https://github.com/arydjmal/to_csv"
+  s.homepage    = "https://github.com/arydjmal/to_xls"
   s.summary     = %q{Provides Rails integration for export to XLS.}
   s.description = %q{Provides Rails integration for export to XLS.}
 
