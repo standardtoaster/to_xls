@@ -4,7 +4,7 @@ require "version"
 
 Gem::Specification.new do |s|
   s.name        = "to_xls"
-  s.version     = TO::XLS::VERSION
+  s.version     = ToXLS::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ary Djmal"]
   s.email       = ["arydjmal@gmail.com"]

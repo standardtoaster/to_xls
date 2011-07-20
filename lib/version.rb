@@ -1,5 +1,3 @@
-module TO
-  module XLS
+module ToXLS
     VERSION = '0.0.1'
-  end
 end
